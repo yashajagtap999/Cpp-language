@@ -1,4 +1,4 @@
-// PROGRAM TO PRINT HELLO WORLD
+// BASIC PROGRAM TO PRINT HELLO WORLD
 #include<iostream>
 using namespace std;
 int main()
@@ -6,3 +6,4 @@ int main()
 	cout<<"HELLO WORLD";
 	return 0;
 }
+
