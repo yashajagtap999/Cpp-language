@@ -1,4 +1,4 @@
-//CONDITIONAL STATEMENTS
+//CONDITIONAL STATEMENTS :-- It IS USED TO APPLY THE CONDITUIONS ON A DATA.
 //IF
 #include<iostream>
 using  namespace std;
@@ -13,3 +13,4 @@ int main()
 	}
 cout<<"A IS AN ODD NUMBER";
 }
+
