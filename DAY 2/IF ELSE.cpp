@@ -1,4 +1,4 @@
-//IF-ELSE
+//IF-ELSE :-- ELSE CANNOT EXISTS WITHOUT IF
 #include<iostream>
 using namespace std;
 int main()
@@ -19,4 +19,5 @@ int main()
 	}
 	return 0;
 }
+
 
