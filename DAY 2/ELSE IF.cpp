@@ -1,4 +1,4 @@
-//ELSE-IF
+//ELSE-IF :-- USED TO APPLY MULTIPLE CONDITIONS ON A DATA
 #include<iostream>
 using namespace std;
 int main()
@@ -20,3 +20,4 @@ int main()
 	}
 	cout<<"out of loop";
 }
+
