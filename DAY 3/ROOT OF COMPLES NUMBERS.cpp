@@ -1,4 +1,5 @@
-//TO FIND THE ROOT OF COMPLEX NUMBER
+//TO FIND THE ROOT OF COMPLEX NUMBER :-- Root of the numbers
+
 #include<iostream>
 using namespace std;
 int main()
@@ -27,4 +28,5 @@ else
 	cout<<"the roots are imaginary and distinct ";
 }
 }
+
 
