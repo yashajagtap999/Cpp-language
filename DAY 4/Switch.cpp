@@ -1,4 +1,4 @@
-//Switch
+//Switch :-- It switches from one condition to other
 #include<iostream>
 using namespace std;
 int main()
@@ -22,3 +22,4 @@ int main()
 	}
 	
 }
+
