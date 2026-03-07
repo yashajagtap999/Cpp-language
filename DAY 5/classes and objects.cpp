@@ -1,3 +1,4 @@
+//class is an passive intity and object is an active entity.
 #include<iostream>
 	using namespace std;
 	class cars
@@ -25,4 +26,5 @@
 			c1.put();
 		}
 		
+
 
