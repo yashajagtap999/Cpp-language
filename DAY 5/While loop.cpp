@@ -1,4 +1,4 @@
-// while loop-- To print natural numbers
+// while loop-- It first check the condition and if its truet execute the block of code till condition becomes false.
 
 #include<iostream>
 using namespace std;
@@ -11,3 +11,4 @@ int main()
 	i++;
 }
 }
+
