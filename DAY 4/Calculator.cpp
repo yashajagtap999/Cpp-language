@@ -1,4 +1,4 @@
-//Calculator :-- implemented using the switch statement
+//Calculator :-- implemented using the switch statement .
 #include<iostream>
 using namespace std;
 int main()
@@ -27,4 +27,5 @@ int main()
 	}
 	
 	}
+
 
