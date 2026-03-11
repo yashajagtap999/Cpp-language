@@ -1,4 +1,4 @@
-//For loop
+//For loop :-- It is ysed to access the data in sequential manner .
 #include<iostream>
 using namespace std;
 int main()
@@ -9,3 +9,4 @@ int main()
 		cout<<i<<endl;
 	}
 }
+
