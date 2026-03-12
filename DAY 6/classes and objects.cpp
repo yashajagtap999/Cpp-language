@@ -1,5 +1,5 @@
-
-include<iostream>
+//Class is an passive entity and cannot be executed til object is created.
+#include<iostream>
 using namespace std;
 class Student
 {
@@ -25,3 +25,4 @@ int main()
 	s1.putdata();
 	
 }
+
