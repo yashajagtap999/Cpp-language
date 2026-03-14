@@ -1,4 +1,4 @@
-//Single level inheritance
+//Single level inheritance :-- Consists only on ebase and one derived class.
 #include<iostream>
 using namespace std;
 class Base
