@@ -1,3 +1,4 @@
+//It is a 1 parent class,1intermidiate class and 1 derived class.
 #include<iostream>
 using namespace std;
 class Base
