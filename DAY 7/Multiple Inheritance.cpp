@@ -1,3 +1,4 @@
+// It is a 2 parent class and 1 derived class.
 #include <iostream>
 using namespace std;
 
