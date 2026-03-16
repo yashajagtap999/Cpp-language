@@ -1,3 +1,4 @@
+//Hierarchical Inheritace :-- Single Base class but multiple Derived class.
 #include <iostream>
 using namespace std;
 
