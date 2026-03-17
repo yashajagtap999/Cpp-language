@@ -1,4 +1,4 @@
-//Static Data members 
+//Static Data members -- the only one copy of variable is created commonly to all objects
 #include<iostream>
 using namespace std;
 class sample
