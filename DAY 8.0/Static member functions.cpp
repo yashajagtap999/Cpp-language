@@ -1,4 +1,4 @@
-//Static member function
+//Static member function--It is a function which can be accessed outside the class and denoted by static name and called using class name
 #include<iostream>
 using namespace std;
 class sample
