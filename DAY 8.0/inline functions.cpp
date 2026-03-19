@@ -1,4 +1,4 @@
-//inline functions
+//inline functions :-- It is a single line functions
 #include<iostream>
 using namespace std;
 int main()
