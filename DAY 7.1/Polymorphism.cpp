@@ -1,4 +1,4 @@
-//Polymorphism
+//Polymorphism :-- A single object that can perform multiple task.
 
 #include<iostream>
 using namespace std;
