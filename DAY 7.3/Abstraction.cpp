@@ -1,3 +1,4 @@
+//Abstraction:-- It is a process of providing what is required by the user and hiding the internnal implementation
 #include <iostream>
 using namespace std;
 
