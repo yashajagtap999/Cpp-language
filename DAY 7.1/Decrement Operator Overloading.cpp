@@ -1,4 +1,4 @@
-//Decreament operator overloading
+//Decreament operator overloading1. Pre-Decrement (--obj) The value is decreased first, then used.
 
 /*#include<iostream>
 using namespace std;
