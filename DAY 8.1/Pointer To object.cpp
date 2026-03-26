@@ -1,4 +1,4 @@
-//Pointer to Object:--
+//Pointer to Object:--In C++, a pointer to an object is a variable that stores the memory address of an object instance of a class.
 
 #include<iostream>
 using namespace std;
