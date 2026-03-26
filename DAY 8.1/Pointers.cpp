@@ -1,4 +1,4 @@
-//Pointer--It is a derived datatype used to store the memory address and used to access values from perticularmemory adddress
+//Pointer--It is a derived datatype used to store the memory address and used to access values from perticularmemory adddress.
 #include<iostream>
 using namespace std;
 int main()
