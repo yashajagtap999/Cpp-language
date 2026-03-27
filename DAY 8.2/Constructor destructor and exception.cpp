@@ -1,4 +1,4 @@
-//Constructor  ,Destructor and Exception
+//Constructor  ,Destructor and Exception.
 #include<iostream>
 using namespace std;
 class Sample
