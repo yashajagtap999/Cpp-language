@@ -1,4 +1,4 @@
-
+//Inheritance and Exception
 #include<iostream>
 using namespace std;
 class Parent{};
