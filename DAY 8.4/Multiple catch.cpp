@@ -1,3 +1,4 @@
+//Multiple catch
 #include <iostream>
 using namespace std;
 
