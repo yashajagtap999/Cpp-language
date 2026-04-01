@@ -1,4 +1,4 @@
-//Standard Template Library..
+//Standard Template Library :-- The STL is a collection of template-based components in C++ that include:--Data structures (containers),Algorithms,Iterators
 
 #include<iostream>
 #include<vector>
