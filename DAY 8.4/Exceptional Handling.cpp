@@ -1,4 +1,4 @@
-//Exceptional Handling :-- It can be achieved using try and catch block
+//Exceptional Handling :-- It can be achieved using try and catch block.
 #include <iostream>
 using namespace std;
 
