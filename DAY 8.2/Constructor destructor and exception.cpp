@@ -1,4 +1,5 @@
-//Constructor  ,Destructor and Exception.
+/*Constructor  ,Destructor and Exception :-- Constructor: A special member function in C++ that is automatically called when an object is created to initialize it.
+Destructor: A special member function in C++ that is automatically called when an object is destroyed to free resources.*/
 #include<iostream>
 using namespace std;
 class Sample
