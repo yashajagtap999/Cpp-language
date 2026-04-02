@@ -1,4 +1,5 @@
-//Inheritance and Exception
+/*Inheritance and Exception :-- Inheritance: In C++, inheritance is a feature where a class (derived class) acquires properties and functions of another class (base class) using : syntax.
+Exception Handling: In C++, exception handling is a mechanism to handle runtime errors using try, catch, and throw keywords.*/
 #include<iostream>
 using namespace std;
 class Parent{};
