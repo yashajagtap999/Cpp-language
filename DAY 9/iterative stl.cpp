@@ -1,4 +1,4 @@
-//iterative
+//iterative STL:--iterative STL usually refers to using iterators to traverse or manipulate elements in containers from the Standard Template Library (STL)
 
 #include<iostream>
 #include<vector>
