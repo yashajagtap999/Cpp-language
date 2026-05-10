@@ -1,4 +1,4 @@
-//PROGRAM TO TAKE INPUT FROM USER :--
+//PROGRAM TO TAKE INPUT FROM USER :----
 #include<iostream>
 using namespace std;
 int main()
