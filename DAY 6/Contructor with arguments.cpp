@@ -1,4 +1,4 @@
-// =======================Constructor with arguments :-- Assigning the parameters in constructor======================================
+// =======================Constructor with arguments :-- Assigning the parameters in constructor=====================================
 #include<iostream>
 using namespace std;
 class sample
