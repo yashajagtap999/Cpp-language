@@ -1,4 +1,4 @@
-//Class is an passive entity and cannot be executed til object is created.
+//Class is an passive entity and cannot be executed til object is created...........
 #include<iostream>
 using namespace std;
 class Student
