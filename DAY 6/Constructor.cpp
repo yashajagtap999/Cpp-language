@@ -1,4 +1,4 @@
-// Constructor is used to initalize the object it is automaically invoked when object is created.
+// Constructor is used to initalize the object it is automaically invoked when object is created. .....
 #include<iostream>
 using namespace std;
 class sample
